@@ -1,3 +1,4 @@
+https://replit.com/join/spcxypaovy-elianguerrero1 
 ### Multiple discount calculator:+
 
 product = float(input("Put the price of the product: "))
